@@ -1,6 +1,6 @@
 # Renzil's Web Development Workshop
 
-The first step when you start is to choose an integrated development environment (IDE) for coding. An IDE will usually give you a text editor, terminal, and other tools to help you write code.
+
 
 There are many choices that will work, but if you're new I highly recommend using the cloud-based IDE [Gitpod](https://gitpod.io).
 
