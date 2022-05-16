@@ -39,7 +39,6 @@ function update_question_ui(question_text, correct_answer, incorrect_answers) {
     answer_buttons = document.getElementsByClassName("answer_button");
     const answer_options = incorrect_answers;
     const insertion_index = Math.floor(Math.random() * 4);
-    
 }
 
 function fetch_image() {
